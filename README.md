@@ -7,5 +7,5 @@
 	<br>
 	<a href="https://github.com/tayi-or/vanilla-installer/releases">Download →</a>
   <br>
-	(fyi: this was created by <a href="https://twitter.com/tayiorrobinson">Taylor</a>, not <a href="https://twitter.com/elttob">Elttob</a>, please don't bother him if you have issues!)
+	(fyi: this was created by <a href="https://twitter.com/tayiorrobinson">Taylor</a>, not <a href="https://twitter.com/Elttob_">Elttob</a>, please don't bother him if you have issues!)
 </p>
